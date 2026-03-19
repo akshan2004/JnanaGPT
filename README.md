@@ -83,11 +83,11 @@ An AI-powered chat application that supports **text generation, image generation
 ---
 
 ## 📂 Project Structure
-JnanaGPT/
-│
-├── frontend/ # React App
-├── backend/ # Node.js Server
-├── README.md
+- JnanaGPT/
+- │
+- ├── frontend/ # React App
+- ├── backend/ # Node.js Server
+- ├── README.md
 
 
 
